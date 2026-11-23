@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Classic First Person Loadout",
+  "Category": "Gameplay",
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "ClassicLoadout",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
